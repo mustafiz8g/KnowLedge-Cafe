@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "Mastering JavaScript for Web Development",
+      "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "author": "Alice Brown",
+      "author_img": "https://randomuser.me/api/portraits/women/68.jpg",
+      "posted_date": "2024-10-01",
+      "reading_time": 5,
+      "hashtags": ["#webdevelopment", "#javascript", "#coding"]
+    },
+    {
+      "id": 2,
+      "title": "React: Building Dynamic Web Interfaces",
+      "cover": "https://images.unsplash.com/photo-1504164996022-09080787b6b3",
+      "author": "John Smith",
+      "author_img": "https://randomuser.me/api/portraits/men/72.jpg",
+      "posted_date": "2024-09-15",
+      "reading_time": 7,
+      "hashtags": ["#reactjs", "#frontend", "#programming"]
+    },
+    {
+      "id": 3,
+      "title": "Scaling with MongoDB and Node.js",
+      "cover": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
+      "author": "Emily Clark",
+      "author_img": "https://randomuser.me/api/portraits/women/44.jpg",
+      "posted_date": "2024-08-25",
+      "reading_time": 10,
+      "hashtags": ["#mongodb", "#nodejs", "#backend"]
+    },
+    {
+      "id": 4,
+      "title": "A Comprehensive Guide to HTML and CSS",
+      "cover": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f",
+      "author": "David Lee",
+      "author_img": "https://randomuser.me/api/portraits/men/41.jpg",
+      "posted_date": "2024-10-10",
+      "reading_time": 6,
+      "hashtags": ["#html", "#css", "#webdesign"]
+    }
+  ]
+  
